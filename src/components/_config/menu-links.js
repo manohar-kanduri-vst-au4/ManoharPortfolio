@@ -26,3 +26,21 @@ export const indexMenuLinks = [
     icon: 'terminal'
   }
 ];
+
+export const blogMenuLinks = [
+  {
+    name: 'Portfolio',
+    link: '/',
+    icon: 'code',
+  },
+  {
+    name: 'Blog',
+    link: '/blog',
+    icon: 'feather-alt',
+  },
+  {
+    name: 'Tags',
+    link: '/tags',
+    icon: 'tags',
+  },
+];
