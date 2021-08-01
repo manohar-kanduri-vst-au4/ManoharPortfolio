@@ -20,4 +20,9 @@ export const indexMenuLinks = [
     link: '/#contact',
     icon: 'envelope',
   },
+  {
+    name:'Resume',
+    link:"https://drive.google.com/file/d/19yuldyZxxgZkwXjcmIsEL3HJi1be_acl/view?export=download",
+    icon: 'terminal'
+  }
 ];

@@ -11,3 +11,4 @@ A self-motivaed and passionate aspiring web developer skilled in both front-end 
 <img src = "./tec.png"   />
 </div>
 
+
